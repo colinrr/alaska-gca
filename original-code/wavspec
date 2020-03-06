@@ -1,0 +1,16 @@
+%% Rockin the spectrogram
+
+
+% setup
+
+nfft = 1024;
+overlap = 924;
+fmax = 10;
+dblims = [40 80];
+
+
+%  spectral object
+
+speck = spectralobject(nff,overlap,fmax,dblims);
+
+specgram(speck,w(11));

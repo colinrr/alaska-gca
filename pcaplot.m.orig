@@ -1,0 +1,76 @@
+function pcaplot(w,fband,pca_mode)
+% w = input waveform
+% fband = freq band of interest (can leave empty)
+% pca_mode = 'raw','norm','shiftnorm'
+
+Nw = numel(w);
+
+figure('position',[100 100 1600 600])
+for k = 1:Nw;
+    pxx = get(w(k),'pxxmt');
+    fmt = get(w(k),'fmt');
+    tmt = get(w(k),'tmt');
+    pn = size(pxx,1);
+    
+    % Set up pxx type
+    if strcmp(pca_mode,'raw')
+        disp('PCA: using Raw spectra')
+        tstr = 'Raw spectrogram';
+    elseif strcmp(pca_mode,'norm')
+        disp('PCA: using Normalized spectra')
+        tstr = 'Normalized spectrogram';
+        pxxSum = sum(abs(pxx),1); 
+        pxx   = pxx./repmat(pxxSum,[pn,1]);
+    elseif strcmp(pca_mode,'normshift')
+        disp('PCA: using Normalized and Median Shifted spectra')
+        tstr = 'Normalized and Median shifted spectrogram';
+        pxxSum = sum(abs(pxx),1); 
+        pxx   = pxx./repmat(pxxSum,[pn,1]);
+        pxx  = pxx - repmat(median(pxx,1),[pn,1]);
+%         pxx  = pxdbN - repmat(median(pxdbN,1),[pn,1]);        
+    else
+        disp('Bad PCA mode')
+        flargh
+    end
+    
+    % Cut out freq band
+    if isempty(fband)
+        fband = true(size(fmt));
+    else
+        fi = logical((fmt>=fband(1)) .* (fmt<=fband(2)));
+    end
+    fmt = fmt(fi);
+    pxx = pxx(fi,:);
+    
+    [eVecs, PCs, eVals, tsq, pcnt_var, mu] = pca(pxx');
+    
+    subplot(3,Nw,k)
+    imagesc(tmt,fmt,pxx); set(gca,'YDir','Normal')
+    colormap('hot')
+    datetick('x','HH:MM:SS','keeplimits')
+    xlabel('Time')
+    ylabel('Freq')
+    title(string(get(w(k),'channeltag')))
+    caxis(caxis*1.05)
+    caxis(caxis*1.1)
+    
+    p90 = min(find(cumsum(pcnt_var)>=90));
+    subplot(3,Nw,k+Nw)
+    plot(pcnt_var,'.-')
+    xlabel('mode')
+    ylabel('% variance')
+    title(sprintf('p90 = %i',p90))
+    xlim([0 20])
+    
+    subplot(3,Nw,k+2*Nw)
+    plot(PCs(:,1),PCs(:,2),'.')
+    xlabel('PC 1')
+    ylabel('PC 2')
+    title('PCs? FeckedIfIKnow')
+    axis equal
+    
+    % This will be the one
+    
+end
+nom = sprintf('%i - %i, %s',fband(1),fband(2),tstr);
+set(gcf,'name',nom)

@@ -1,0 +1,1010 @@
+station         database    date            site_info
+    ACH   uaf_continuous 2009-03-28           YES
+   ADAG   uaf_continuous 2009-03-28           YES
+    AHB   uaf_continuous 2009-03-28           YES
+    AKS   uaf_continuous 2009-03-28           YES
+    AKV   uaf_continuous 2009-03-28           YES
+   ANCK   uaf_continuous 2009-03-28           YES
+   ANNE   uaf_continuous 2009-03-28           YES
+   ANNW   uaf_continuous 2009-03-28           YES
+   ANON   uaf_continuous 2009-03-28           YES
+   ANPB   uaf_continuous 2009-03-28           YES
+   ANPK   uaf_continuous 2009-03-28           YES
+    AUE   uaf_continuous 2009-03-28           YES
+    AUH   uaf_continuous 2009-03-28           YES
+    AUI   uaf_continuous 2009-03-28           YES
+   AUJA   uaf_continuous 2009-03-28            NO
+    AUL   uaf_continuous 2009-03-28           YES
+   AUNW   uaf_continuous 2009-03-28           YES
+    AUP   uaf_continuous 2009-03-28           YES
+   AUSE   uaf_continuous 2009-03-28           YES
+    AUW   uaf_continuous 2009-03-28           YES
+   AZAC   uaf_continuous 2009-03-28           YES
+    BAL   uaf_continuous 2009-03-28           YES
+    BCP   uaf_continuous 2009-03-28           YES
+    BGL   uaf_continuous 2009-03-28           YES
+    BGM   uaf_continuous 2009-03-28           YES
+    BGR   uaf_continuous 2009-03-28           YES
+    BKG   uaf_continuous 2009-03-28           YES
+   BLDY   uaf_continuous 2009-03-28           YES
+   BLHA   uaf_continuous 2009-03-28           YES
+    BNB   uaf_continuous 2009-03-28           YES
+   BPBC   uaf_continuous 2009-03-28           YES
+   BRPK   uaf_continuous 2009-03-28           YES
+    BWN   uaf_continuous 2009-03-28           YES
+   CAHL   uaf_continuous 2009-03-28           YES
+    CDD   uaf_continuous 2009-03-28           YES
+    CFI   uaf_continuous 2009-03-28           YES
+    CGL   uaf_continuous 2009-03-28           YES
+    CHX   uaf_continuous 2009-03-28           YES
+    CKL   uaf_continuous 2009-03-28           YES
+    CKN   uaf_continuous 2009-03-28           YES
+    CKT   uaf_continuous 2009-03-28           YES
+   CNTC   uaf_continuous 2009-03-28           YES
+    CP2   uaf_continuous 2009-03-28           YES
+    CRP   uaf_continuous 2009-03-28           YES
+    CRQ   uaf_continuous 2009-03-28           YES
+    CTG   uaf_continuous 2009-03-28           YES
+    CUT   uaf_continuous 2009-03-28           YES
+    CYK   uaf_continuous 2009-03-28           YES
+    DFR   uaf_continuous 2009-03-28           YES
+    DFR   uaf_continuous 2009-03-28           YES
+    DOL   uaf_continuous 2009-03-28           YES
+   DRR3   uaf_continuous 2009-03-28           YES
+    DT1   uaf_continuous 2009-03-28           YES
+    DTN   uaf_continuous 2009-03-28           YES
+   ETKA   uaf_continuous 2009-03-28           YES
+    FID   uaf_continuous 2009-03-28           YES
+   FONW   uaf_continuous 2009-03-28           YES
+   FOPK   uaf_continuous 2009-03-28           YES
+   FOSS   uaf_continuous 2009-03-28           YES
+    FSB   uaf_continuous 2009-03-28           YES
+    FYU   uaf_continuous 2009-03-28           YES
+   GAEA   uaf_continuous 2009-03-28           YES
+   GAKI   uaf_continuous 2009-03-28           YES
+   GALA   uaf_continuous 2009-03-28           YES
+   GANE   uaf_continuous 2009-03-28           YES
+   GANO   uaf_continuous 2009-03-28           YES
+   GASW   uaf_continuous 2009-03-28           YES
+    GLB   uaf_continuous 2009-03-28           YES
+    GLI   uaf_continuous 2009-03-28           YES
+   GSCK   uaf_continuous 2009-03-28           YES
+   GSIG   uaf_continuous 2009-03-28           YES
+   GSMY   uaf_continuous 2009-03-28           YES
+   GSSP   uaf_continuous 2009-03-28           YES
+   GSTD   uaf_continuous 2009-03-28           YES
+   GSTR   uaf_continuous 2009-03-28           YES
+    HAG   uaf_continuous 2009-03-28           YES
+    HIN   uaf_continuous 2009-03-28           YES
+    HMT   uaf_continuous 2009-03-28           YES
+    HOM   uaf_continuous 2009-03-28           YES
+    HSB   uaf_continuous 2009-03-28           YES
+    HUR   uaf_continuous 2009-03-28           YES
+    HYT   uaf_continuous 2009-03-28           YES
+    ILI   uaf_continuous 2009-03-28           YES
+    ILS   uaf_continuous 2009-03-28           YES
+    ILW   uaf_continuous 2009-03-28           YES
+    ILW   uaf_continuous 2009-03-28           YES
+    INE   uaf_continuous 2009-03-28           YES
+   ISLZ   uaf_continuous 2009-03-28           YES
+   ISNN   uaf_continuous 2009-03-28           YES
+    IVE   uaf_continuous 2009-03-28           YES
+    IVS   uaf_continuous 2009-03-28           YES
+    JPK   uaf_continuous 2009-03-28           YES
+   KABR   uaf_continuous 2009-03-28           YES
+   KAHC   uaf_continuous 2009-03-28           YES
+   KAHG   uaf_continuous 2009-03-28           YES
+    KAI   uaf_continuous 2009-03-28           YES
+   KAIC   uaf_continuous 2009-03-28           YES
+   KAPH   uaf_continuous 2009-03-28           YES
+   KARR   uaf_continuous 2009-03-28           YES
+   KAWH   uaf_continuous 2009-03-28           YES
+    KBM   uaf_continuous 2009-03-28           YES
+    KCE   uaf_continuous 2009-03-28           YES
+    KCG   uaf_continuous 2009-03-28           YES
+    KEL   uaf_continuous 2009-03-28           YES
+   KICM   uaf_continuous 2009-03-28           YES
+   KIKV   uaf_continuous 2009-03-28           YES
+   KIMD   uaf_continuous 2009-03-28           YES
+   KINC   uaf_continuous 2009-03-28           YES
+   KIRH   uaf_continuous 2009-03-28           YES
+   KIWB   uaf_continuous 2009-03-28           YES
+    KJL   uaf_continuous 2009-03-28           YES
+    KLU   uaf_continuous 2009-03-28           YES
+   KOFP   uaf_continuous 2009-03-28           YES
+   KOKL   uaf_continuous 2009-03-28           YES
+   KOKV   uaf_continuous 2009-03-28           YES
+   KONE   uaf_continuous 2009-03-28           YES
+   KONW   uaf_continuous 2009-03-28           YES
+   KOSE   uaf_continuous 2009-03-28           YES
+   KOWE   uaf_continuous 2009-03-28           YES
+    KVT   uaf_continuous 2009-03-28           YES
+    LTI   uaf_continuous 2009-03-28           YES
+    LVA   uaf_continuous 2009-03-28           YES
+   MASB   uaf_continuous 2009-03-28           YES
+   MCIR   uaf_continuous 2009-03-28           YES
+    MDM   uaf_continuous 2009-03-28           YES
+    MDM   uaf_continuous 2009-03-28           YES
+   MGLS   uaf_continuous 2009-03-28           YES
+   MGOD   uaf_continuous 2009-03-28           YES
+    MLY   uaf_continuous 2009-03-28           YES
+    MMN   uaf_continuous 2009-03-28           YES
+   MNAT   uaf_continuous 2009-03-28           YES
+   MREP   uaf_continuous 2009-03-28           YES
+   MSOM   uaf_continuous 2009-03-28           YES
+    MSP   uaf_continuous 2009-03-28           YES
+    MSW   uaf_continuous 2009-03-28           YES
+   MTBL   uaf_continuous 2009-03-28           YES
+    NAG   uaf_continuous 2009-03-28           YES
+    NCG   uaf_continuous 2009-03-28           YES
+    NCT   uaf_continuous 2009-03-28           YES
+    NCT   uaf_continuous 2009-03-28           YES
+    NDB   uaf_continuous 2009-03-28           YES
+    NEA   uaf_continuous 2009-03-28           YES
+    NKA   uaf_continuous 2009-03-28           YES
+    NNL   uaf_continuous 2009-03-28           YES
+   OKAK   uaf_continuous 2009-03-28           YES
+   OKCF   uaf_continuous 2009-03-28           YES
+   OKER   uaf_continuous 2009-03-28           YES
+   OKID   uaf_continuous 2009-03-28           YES
+   OKRE   uaf_continuous 2009-03-28           YES
+   OKSP   uaf_continuous 2009-03-28           YES
+   OKTU   uaf_continuous 2009-03-28           YES
+   OKWE   uaf_continuous 2009-03-28           YES
+   OKWR   uaf_continuous 2009-03-28           YES
+    OPT   uaf_continuous 2009-03-28           YES
+    PDB   uaf_continuous 2009-03-28           YES
+   PLBL   uaf_continuous 2009-03-28           YES
+   PLK1   uaf_continuous 2009-03-28           YES
+   PLK2   uaf_continuous 2009-03-28           YES
+   PLK3   uaf_continuous 2009-03-28           YES
+   PLK4   uaf_continuous 2009-03-28           YES
+   PLK5   uaf_continuous 2009-03-28           YES
+   PLWL   uaf_continuous 2009-03-28           YES
+   PN7A   uaf_continuous 2009-03-28           YES
+    PNL   uaf_continuous 2009-03-28           YES
+    PPD   uaf_continuous 2009-03-28           YES
+   PS1A   uaf_continuous 2009-03-28           YES
+   PS4A   uaf_continuous 2009-03-28           YES
+    PV6   uaf_continuous 2009-03-28           YES
+    PVV   uaf_continuous 2009-03-28           YES
+    PWL   uaf_continuous 2009-03-28           YES
+    RAG   uaf_continuous 2009-03-28           YES
+    RDE   uaf_continuous 2009-03-28           YES
+    RDN   uaf_continuous 2009-03-28           YES
+    RDT   uaf_continuous 2009-03-28           YES
+    RDT   uaf_continuous 2009-03-28           YES
+    RED   uaf_continuous 2009-03-28           YES
+    REF   uaf_continuous 2009-03-28           YES
+    RND   uaf_continuous 2009-03-28           YES
+    RSO   uaf_continuous 2009-03-28           YES
+    SGA   uaf_continuous 2009-03-28           YES
+    SKN   uaf_continuous 2009-03-28           YES
+    SLK   uaf_continuous 2009-03-28           YES
+   SPNW   uaf_continuous 2009-03-28           YES
+    SPU   uaf_continuous 2009-03-28           YES
+   SPWE   uaf_continuous 2009-03-28           YES
+   SSLN   uaf_continuous 2009-03-28           YES
+   SSLS   uaf_continuous 2009-03-28           YES
+   SSLW   uaf_continuous 2009-03-28           YES
+    SSN   uaf_continuous 2009-03-28           YES
+    SSP   uaf_continuous 2009-03-28           YES
+   STLK   uaf_continuous 2009-03-28           YES
+    SYI   uaf_continuous 2009-03-28           YES
+   TACS   uaf_continuous 2009-03-28           YES
+   TAFL   uaf_continuous 2009-03-28           YES
+   TAFP   uaf_continuous 2009-03-28           YES
+   TANO   uaf_continuous 2009-03-28           YES
+   TAPA   uaf_continuous 2009-03-28           YES
+   TASE   uaf_continuous 2009-03-28           YES
+   TEST   uaf_continuous 2009-03-28           YES
+    TGL   uaf_continuous 2009-03-28           YES
+   TRAP   uaf_continuous 2009-03-28           YES
+    VLZ   uaf_continuous 2009-03-28           YES
+   VNFG   uaf_continuous 2009-03-28           YES
+   VNHG   uaf_continuous 2009-03-28           YES
+   VNKR   uaf_continuous 2009-03-28           YES
+   VNSG   uaf_continuous 2009-03-28           YES
+   VNSS   uaf_continuous 2009-03-28           YES
+   VNSW   uaf_continuous 2009-03-28           YES
+   VNWF   uaf_continuous 2009-03-28           YES
+   VOGL   uaf_continuous 2009-03-28           YES
+   WACK   uaf_continuous 2009-03-28           YES
+   WANC   uaf_continuous 2009-03-28           YES
+   WASW   uaf_continuous 2009-03-28           YES
+    WAX   uaf_continuous 2009-03-28           YES
+   WAZA   uaf_continuous 2009-03-28           YES
+   WEBT   uaf_continuous 2009-03-28           YES
+   WECS   uaf_continuous 2009-03-28           YES
+   WESE   uaf_continuous 2009-03-28           YES
+   WESN   uaf_continuous 2009-03-28           YES
+   WESP   uaf_continuous 2009-03-28           YES
+    WRG   uaf_continuous 2009-03-28           YES
+    WRH   uaf_continuous 2009-03-28           YES
+   WTUG   uaf_continuous 2009-03-28           YES
+    YAH   uaf_continuous 2009-03-28           YES
+   YKW3   uaf_continuous 2009-03-28           YES
+    ZRO   uaf_continuous 2009-03-28           YES
+   2227   uaf_continuous 2009-03-28            NO
+   2227   uaf_continuous 2009-03-28            NO
+   3125   uaf_continuous 2009-03-28            NO
+   3125   uaf_continuous 2009-03-28            NO
+   3126   uaf_continuous 2009-03-28            NO
+   3126   uaf_continuous 2009-03-28            NO
+   3127   uaf_continuous 2009-03-28            NO
+   3127   uaf_continuous 2009-03-28            NO
+   3128   uaf_continuous 2009-03-28            NO
+   3128   uaf_continuous 2009-03-28            NO
+   3129   uaf_continuous 2009-03-28            NO
+   3129   uaf_continuous 2009-03-28            NO
+   3130   uaf_continuous 2009-03-28            NO
+   3130   uaf_continuous 2009-03-28            NO
+    AAK   uaf_continuous 2009-03-28           YES
+    AFI   uaf_continuous 2009-03-28           YES
+   AKGG   uaf_continuous 2009-03-28           YES
+   AKLV   uaf_continuous 2009-03-28           YES
+   AKRB   uaf_continuous 2009-03-28           YES
+    AKT   uaf_continuous 2009-03-28           YES
+   AKUT   uaf_continuous 2009-03-28           YES
+   ANMO   uaf_continuous 2009-03-28           YES
+    ARU   uaf_continuous 2009-03-28           YES
+   ATKA   uaf_continuous 2009-03-28           YES
+    AUL   uaf_continuous 2009-03-28           YES
+   BAGL   uaf_continuous 2009-03-28           YES
+   BARK   uaf_continuous 2009-03-28           YES
+   BARN   uaf_continuous 2009-03-28           YES
+    BBB   uaf_continuous 2009-03-28           YES
+   BBGH   uaf_continuous 2009-03-28           YES
+   BBSR   uaf_continuous 2009-03-28           YES
+   BERG   uaf_continuous 2009-03-28           YES
+   BESE   uaf_continuous 2009-03-28           YES
+    BFO   uaf_continuous 2009-03-28           YES
+   BGLC   uaf_continuous 2009-03-28           YES
+   BILL   uaf_continuous 2009-03-28           YES
+    BMR   uaf_continuous 2009-03-28           YES
+   BORG   uaf_continuous 2009-03-28           YES
+   BRLK   uaf_continuous 2009-03-28           YES
+   BRVK   uaf_continuous 2009-03-28           YES
+   CAST   uaf_continuous 2009-03-28           YES
+   CASY   uaf_continuous 2009-03-28           YES
+    CHI   uaf_continuous 2009-03-28           YES
+   CHTO   uaf_continuous 2009-03-28           YES
+   CHUM   uaf_continuous 2009-03-28           YES
+   CMLA   uaf_continuous 2009-03-28           YES
+   COCO   uaf_continuous 2009-03-28           YES
+   COLA   uaf_continuous 2009-03-28           YES
+   COLD   uaf_continuous 2009-03-28           YES
+    COR   uaf_continuous 2009-03-28           YES
+   CRAG   uaf_continuous 2009-03-28           YES
+   CTAO   uaf_continuous 2009-03-28           YES
+    DAV   uaf_continuous 2009-03-28           YES
+   DAWY   uaf_continuous 2009-03-28           YES
+   DGAR   uaf_continuous 2009-03-28           YES
+    DHY   uaf_continuous 2009-03-28           YES
+    DIV   uaf_continuous 2009-03-28           YES
+   DLBC   uaf_continuous 2009-03-28           YES
+    DOT   uaf_continuous 2009-03-28           YES
+    DUG   uaf_continuous 2009-03-28            NO
+   DWPF   uaf_continuous 2009-03-28           YES
+    EFI   uaf_continuous 2009-03-28           YES
+    ERM   uaf_continuous 2009-03-28           YES
+    ESK   uaf_continuous 2009-03-28           YES
+   EYAK   uaf_continuous 2009-03-28           YES
+   FALS   uaf_continuous 2009-03-28           YES
+    FFC   uaf_continuous 2009-03-28           YES
+    FIB   uaf_continuous 2009-03-28           YES
+   GAMB   uaf_continuous 2009-03-28           YES
+   GCSA   uaf_continuous 2009-03-28           YES
+    GNI   uaf_continuous 2009-03-28           YES
+   GOAT   uaf_continuous 2009-03-28           YES
+   GRIN   uaf_continuous 2009-03-28           YES
+   GRNC   uaf_continuous 2009-03-28           YES
+   GUMO   uaf_continuous 2009-03-28           YES
+    HKT   uaf_continuous 2009-03-28           YES
+    HNR   uaf_continuous 2009-03-28           YES
+    HRV   uaf_continuous 2009-03-28           YES
+   ILBB   uaf_continuous 2009-03-28           YES
+   INCN   uaf_continuous 2009-03-28           YES
+   ISLE   uaf_continuous 2009-03-28           YES
+    JTS   uaf_continuous 2009-03-28           YES
+   KABU   uaf_continuous 2009-03-28           YES
+   KAKN   uaf_continuous 2009-03-28           YES
+   KAPI   uaf_continuous 2009-03-28           YES
+    KBS   uaf_continuous 2009-03-28           YES
+   KDAK   uaf_continuous 2009-03-28           YES
+    KEV   uaf_continuous 2009-03-28           YES
+   KHIT   uaf_continuous 2009-03-28           YES
+   KIAG   uaf_continuous 2009-03-28           YES
+   KIEV   uaf_continuous 2009-03-28           YES
+    KIP   uaf_continuous 2009-03-28           YES
+    KIV   uaf_continuous 2009-03-28           YES
+   KMBO   uaf_continuous 2009-03-28           YES
+   KULT   uaf_continuous 2009-03-28           YES
+   KURK   uaf_continuous 2009-03-28           YES
+   LBTB   uaf_continuous 2009-03-28           YES
+   LOGN   uaf_continuous 2009-03-28           YES
+    LSZ   uaf_continuous 2009-03-28           YES
+    LVC   uaf_continuous 2009-03-28           YES
+   MAJO   uaf_continuous 2009-03-28           YES
+   MBAR   uaf_continuous 2009-03-28           YES
+   MBWA   uaf_continuous 2009-03-28           YES
+   MCAR   uaf_continuous 2009-03-28           YES
+    MDM   uaf_continuous 2009-03-28           YES
+   MESA   uaf_continuous 2009-03-28           YES
+    MID   uaf_continuous 2009-03-28           YES
+   MIDW   uaf_continuous 2009-03-28           YES
+   MOBC   uaf_continuous 2009-03-28           YES
+   NICH   uaf_continuous 2009-03-28           YES
+   NIKH   uaf_continuous 2009-03-28           YES
+   NIKO   uaf_continuous 2009-03-28           YES
+    NNA   uaf_continuous 2009-03-28           YES
+   NWAO   uaf_continuous 2009-03-28           YES
+    OBN   uaf_continuous 2009-03-28           YES
+   OHAK   uaf_continuous 2009-03-28           YES
+   OKCE   uaf_continuous 2009-03-28           YES
+   OKFG   uaf_continuous 2009-03-28           YES
+   OKSO   uaf_continuous 2009-03-28           YES
+   OTAV   uaf_continuous 2009-03-28           YES
+    PAB   uaf_continuous 2009-03-28           YES
+    PAX   uaf_continuous 2009-03-28           YES
+   PAYG   uaf_continuous 2009-03-28           YES
+    PET   uaf_continuous 2009-03-28           YES
+    PFO   uaf_continuous 2009-03-28           YES
+    PMG   uaf_continuous 2009-03-28           YES
+    PMR   uaf_continuous 2009-03-28           YES
+   PMSA   uaf_continuous 2009-03-28           YES
+    PNL   uaf_continuous 2009-03-28           YES
+   POHA   uaf_continuous 2009-03-28           YES
+   PPLA   uaf_continuous 2009-03-28           YES
+   PS01   uaf_continuous 2009-03-28           YES
+   PS04   uaf_continuous 2009-03-28           YES
+   PS05   uaf_continuous 2009-03-28           YES
+   PS06   uaf_continuous 2009-03-28           YES
+   PS07   uaf_continuous 2009-03-28           YES
+   PS08   uaf_continuous 2009-03-28           YES
+   PS09   uaf_continuous 2009-03-28           YES
+   PS10   uaf_continuous 2009-03-28           YES
+   PS11   uaf_continuous 2009-03-28           YES
+   PS12   uaf_continuous 2009-03-28           YES
+   PS13   uaf_continuous 2009-03-28            NO
+   PTPK   uaf_continuous 2009-03-28           YES
+    RAG   uaf_continuous 2009-03-28           YES
+    RAO   uaf_continuous 2009-03-28           YES
+    RAR   uaf_continuous 2009-03-28           YES
+   RAYN   uaf_continuous 2009-03-28           YES
+   RC01   uaf_continuous 2009-03-28           YES
+   RCBR   uaf_continuous 2009-03-28           YES
+   RDWB   uaf_continuous 2009-03-28           YES
+   RIDG   uaf_continuous 2009-03-28           YES
+   RKAV   uaf_continuous 2009-03-28           YES
+    RND   uaf_continuous 2009-03-28           YES
+    RPN   uaf_continuous 2009-03-28           YES
+   RSSD   uaf_continuous 2009-03-28           YES
+   SAMH   uaf_continuous 2009-03-28           YES
+   SAML   uaf_continuous 2009-03-28           YES
+    SAW   uaf_continuous 2009-03-28           YES
+    SBA   uaf_continuous 2009-03-28           YES
+   SCRK   uaf_continuous 2009-03-28           YES
+   SDDR   uaf_continuous 2009-03-28           YES
+   SDPT   uaf_continuous 2009-03-28           YES
+    SDV   uaf_continuous 2009-03-28           YES
+   SFJD   uaf_continuous 2009-03-28           YES
+   SHEL   uaf_continuous 2009-03-28           YES
+    SIT   uaf_continuous 2009-03-28           YES
+    SJG   uaf_continuous 2009-03-28           YES
+   SKAG   uaf_continuous 2009-03-28           YES
+    SKN   uaf_continuous 2009-03-28           YES
+    SMY   uaf_continuous 2009-03-28           YES
+   SNZO   uaf_continuous 2009-03-28           YES
+   SPBG   uaf_continuous 2009-03-28           YES
+   SPIA   uaf_continuous 2009-03-28           YES
+   SSBA   uaf_continuous 2009-03-28           YES
+    SSN   uaf_continuous 2009-03-28           YES
+   SSPA   uaf_continuous 2009-03-28           YES
+   SUCK   uaf_continuous 2009-03-28           YES
+    SUR   uaf_continuous 2009-03-28           YES
+    SWD   uaf_continuous 2009-03-28           YES
+   TABL   uaf_continuous 2009-03-28           YES
+   TATO   uaf_continuous 2009-03-28           YES
+    TAU   uaf_continuous 2009-03-28           YES
+   TEIG   uaf_continuous 2009-03-28           YES
+   TGUH   uaf_continuous 2009-03-28           YES
+   TIXI   uaf_continuous 2009-03-28           YES
+    TLY   uaf_continuous 2009-03-28           YES
+    TNA   uaf_continuous 2009-03-28           YES
+    TRF   uaf_continuous 2009-03-28           YES
+   TRQA   uaf_continuous 2009-03-28           YES
+   TSUM   uaf_continuous 2009-03-28           YES
+    TUC   uaf_continuous 2009-03-28           YES
+    ULN   uaf_continuous 2009-03-28           YES
+    UNV   uaf_continuous 2009-03-28           YES
+    VMT   uaf_continuous 2009-03-28           YES
+   VNDA   uaf_continuous 2009-03-28           YES
+   VRDI   uaf_continuous 2009-03-28           YES
+   WAKE   uaf_continuous 2009-03-28           YES
+    WCI   uaf_continuous 2009-03-28           YES
+    WHY   uaf_continuous 2009-03-28           YES
+   WRAB   uaf_continuous 2009-03-28           YES
+   WRAK   uaf_continuous 2009-03-28           YES
+    YAK   uaf_continuous 2009-03-28           YES
+   YKW3   uaf_continuous 2009-03-28           YES
+    YSS   uaf_continuous 2009-03-28           YES
+   2227   uaf_continuous 2009-03-28            NO
+   2227   uaf_continuous 2009-03-28            NO
+   3125   uaf_continuous 2009-03-28            NO
+   3125   uaf_continuous 2009-03-28            NO
+   3126   uaf_continuous 2009-03-28            NO
+   3126   uaf_continuous 2009-03-28            NO
+   3127   uaf_continuous 2009-03-28            NO
+   3127   uaf_continuous 2009-03-28            NO
+   3128   uaf_continuous 2009-03-28            NO
+   3128   uaf_continuous 2009-03-28            NO
+   3129   uaf_continuous 2009-03-28            NO
+   3129   uaf_continuous 2009-03-28            NO
+   3130   uaf_continuous 2009-03-28            NO
+   3130   uaf_continuous 2009-03-28            NO
+   AKGG   uaf_continuous 2009-03-28           YES
+   AKLV   uaf_continuous 2009-03-28           YES
+   AKRB   uaf_continuous 2009-03-28           YES
+    AKT   uaf_continuous 2009-03-28           YES
+   AKUT   uaf_continuous 2009-03-28           YES
+   ATKA   uaf_continuous 2009-03-28           YES
+    AUL   uaf_continuous 2009-03-28           YES
+   BAGL   uaf_continuous 2009-03-28           YES
+   BARK   uaf_continuous 2009-03-28           YES
+   BARN   uaf_continuous 2009-03-28           YES
+    BBB   uaf_continuous 2009-03-28           YES
+   BERG   uaf_continuous 2009-03-28           YES
+   BESE   uaf_continuous 2009-03-28           YES
+   BGLC   uaf_continuous 2009-03-28           YES
+   BILL   uaf_continuous 2009-03-28           YES
+    BMR   uaf_continuous 2009-03-28           YES
+   BRLK   uaf_continuous 2009-03-28           YES
+   CAST   uaf_continuous 2009-03-28           YES
+    CHI   uaf_continuous 2009-03-28           YES
+   CHUM   uaf_continuous 2009-03-28           YES
+   COLD   uaf_continuous 2009-03-28           YES
+   CRAG   uaf_continuous 2009-03-28           YES
+   DAWY   uaf_continuous 2009-03-28           YES
+    DHY   uaf_continuous 2009-03-28           YES
+    DIV   uaf_continuous 2009-03-28           YES
+   DLBC   uaf_continuous 2009-03-28           YES
+    DOT   uaf_continuous 2009-03-28           YES
+   EYAK   uaf_continuous 2009-03-28           YES
+   FALS   uaf_continuous 2009-03-28           YES
+    FIB   uaf_continuous 2009-03-28           YES
+   GAMB   uaf_continuous 2009-03-28           YES
+   GCSA   uaf_continuous 2009-03-28           YES
+   GOAT   uaf_continuous 2009-03-28           YES
+   GRIN   uaf_continuous 2009-03-28           YES
+   GRNC   uaf_continuous 2009-03-28           YES
+   ILBB   uaf_continuous 2009-03-28           YES
+   ISLE   uaf_continuous 2009-03-28           YES
+   KABU   uaf_continuous 2009-03-28           YES
+   KAKN   uaf_continuous 2009-03-28           YES
+   KDAK   uaf_continuous 2009-03-28           YES
+   KHIT   uaf_continuous 2009-03-28           YES
+   KIAG   uaf_continuous 2009-03-28           YES
+   KULT   uaf_continuous 2009-03-28           YES
+   LOGN   uaf_continuous 2009-03-28           YES
+   MCAR   uaf_continuous 2009-03-28           YES
+    MDM   uaf_continuous 2009-03-28           YES
+   MESA   uaf_continuous 2009-03-28           YES
+    MID   uaf_continuous 2009-03-28           YES
+   MOBC   uaf_continuous 2009-03-28           YES
+   NICH   uaf_continuous 2009-03-28           YES
+   NIKH   uaf_continuous 2009-03-28           YES
+   NIKO   uaf_continuous 2009-03-28           YES
+   OHAK   uaf_continuous 2009-03-28           YES
+   OKCE   uaf_continuous 2009-03-28           YES
+   OKFG   uaf_continuous 2009-03-28           YES
+   OKSO   uaf_continuous 2009-03-28           YES
+    PAX   uaf_continuous 2009-03-28           YES
+    PET   uaf_continuous 2009-03-28           YES
+    PMR   uaf_continuous 2009-03-28           YES
+    PNL   uaf_continuous 2009-03-28           YES
+   PPLA   uaf_continuous 2009-03-28           YES
+   PS01   uaf_continuous 2009-03-28           YES
+   PS04   uaf_continuous 2009-03-28           YES
+   PS05   uaf_continuous 2009-03-28           YES
+   PS06   uaf_continuous 2009-03-28           YES
+   PS07   uaf_continuous 2009-03-28           YES
+   PS08   uaf_continuous 2009-03-28           YES
+   PS09   uaf_continuous 2009-03-28           YES
+   PS10   uaf_continuous 2009-03-28           YES
+   PS11   uaf_continuous 2009-03-28           YES
+   PS12   uaf_continuous 2009-03-28           YES
+   PS13   uaf_continuous 2009-03-28            NO
+   PTPK   uaf_continuous 2009-03-28           YES
+    RAG   uaf_continuous 2009-03-28           YES
+   RC01   uaf_continuous 2009-03-28           YES
+   RDWB   uaf_continuous 2009-03-28           YES
+   RIDG   uaf_continuous 2009-03-28           YES
+   RKAV   uaf_continuous 2009-03-28           YES
+    RND   uaf_continuous 2009-03-28           YES
+   SAMH   uaf_continuous 2009-03-28           YES
+    SAW   uaf_continuous 2009-03-28           YES
+   SCRK   uaf_continuous 2009-03-28           YES
+   SDPT   uaf_continuous 2009-03-28           YES
+    SIT   uaf_continuous 2009-03-28           YES
+   SKAG   uaf_continuous 2009-03-28           YES
+    SKN   uaf_continuous 2009-03-28           YES
+    SMY   uaf_continuous 2009-03-28           YES
+   SPBG   uaf_continuous 2009-03-28           YES
+   SPIA   uaf_continuous 2009-03-28           YES
+   SSBA   uaf_continuous 2009-03-28           YES
+    SSN   uaf_continuous 2009-03-28           YES
+   SUCK   uaf_continuous 2009-03-28           YES
+    SWD   uaf_continuous 2009-03-28           YES
+   TABL   uaf_continuous 2009-03-28           YES
+   TIXI   uaf_continuous 2009-03-28           YES
+    TNA   uaf_continuous 2009-03-28           YES
+    TRF   uaf_continuous 2009-03-28           YES
+    UNV   uaf_continuous 2009-03-28           YES
+    VMT   uaf_continuous 2009-03-28           YES
+   VRDI   uaf_continuous 2009-03-28           YES
+    WHY   uaf_continuous 2009-03-28           YES
+   WRAK   uaf_continuous 2009-03-28           YES
+    YAK   uaf_continuous 2009-03-28           YES
+   YKW3   uaf_continuous 2009-03-28           YES
+    YSS   uaf_continuous 2009-03-28           YES
+    AUE   uaf_continuous 2009-03-28           YES
+    DFR   uaf_continuous 2009-03-28           YES
+   FONW   uaf_continuous 2009-03-28           YES
+   FOSS   uaf_continuous 2009-03-28           YES
+   PN7A   uaf_continuous 2009-03-28           YES
+   SSLN   uaf_continuous 2009-03-28           YES
+    AUE   uaf_continuous 2009-03-28           YES
+    DFR   uaf_continuous 2009-03-28           YES
+   FONW   uaf_continuous 2009-03-28           YES
+   FOSS   uaf_continuous 2009-03-28           YES
+Station ADAG is 1740.91 km (> 300.00 km) from the source
+Station AHB is 1056.36 km (> 300.00 km) from the source
+Station AKS is 1051.50 km (> 300.00 km) from the source
+Station AKV is 1061.99 km (> 300.00 km) from the source
+Station ANNE is 502.70 km (> 300.00 km) from the source
+Station ANNW is 503.44 km (> 300.00 km) from the source
+Station ANON is 506.06 km (> 300.00 km) from the source
+Station ANPB is 520.56 km (> 300.00 km) from the source
+Station ANPK is 511.53 km (> 300.00 km) from the source
+Station AZAC is 510.37 km (> 300.00 km) from the source
+Station BAL is 570.55 km (> 300.00 km) from the source
+Station BCP is 728.83 km (> 300.00 km) from the source
+Station BLDY is 836.22 km (> 300.00 km) from the source
+Station BLHA is 763.30 km (> 300.00 km) from the source
+Station BNB is 1553.72 km (> 300.00 km) from the source
+Station BPBC is 545.98 km (> 300.00 km) from the source
+Station BRPK is 922.60 km (> 300.00 km) from the source
+Station BWN is 448.02 km (> 300.00 km) from the source
+Station CAHL is 307.63 km (> 300.00 km) from the source
+Station CHX is 645.35 km (> 300.00 km) from the source
+Station CNTC is 304.77 km (> 300.00 km) from the source
+Station CRQ is 529.88 km (> 300.00 km) from the source
+Station CTG is 624.88 km (> 300.00 km) from the source
+Station CYK is 569.73 km (> 300.00 km) from the source
+Station DOL is 802.44 km (> 300.00 km) from the source
+Station DRR3 is 834.26 km (> 300.00 km) from the source
+Station DT1 is 822.82 km (> 300.00 km) from the source
+Station DTN is 818.65 km (> 300.00 km) from the source
+Station ETKA is 1739.85 km (> 300.00 km) from the source
+Station FID is 338.63 km (> 300.00 km) from the source
+Station FSB is 1814.64 km (> 300.00 km) from the source
+Station FYU is 772.88 km (> 300.00 km) from the source
+Station GAEA is 1865.66 km (> 300.00 km) from the source
+Station GAKI is 1885.93 km (> 300.00 km) from the source
+Station GALA is 1868.51 km (> 300.00 km) from the source
+Station GANE is 1864.57 km (> 300.00 km) from the source
+Station GANO is 1865.87 km (> 300.00 km) from the source
+Station GASW is 1871.55 km (> 300.00 km) from the source
+Station GLB is 495.96 km (> 300.00 km) from the source
+Station GLI is 312.69 km (> 300.00 km) from the source
+Station GSCK is 1716.21 km (> 300.00 km) from the source
+Station GSIG is 1706.14 km (> 300.00 km) from the source
+Station GSMY is 1708.51 km (> 300.00 km) from the source
+Station GSSP is 1710.84 km (> 300.00 km) from the source
+Station GSTD is 1712.04 km (> 300.00 km) from the source
+Station GSTR is 1704.82 km (> 300.00 km) from the source
+Station HAG is 789.51 km (> 300.00 km) from the source
+Station HIN is 344.65 km (> 300.00 km) from the source
+Station HMT is 468.49 km (> 300.00 km) from the source
+Station HSB is 1054.81 km (> 300.00 km) from the source
+Station HUR is 322.67 km (> 300.00 km) from the source
+Station HYT is 833.55 km (> 300.00 km) from the source
+Station ISLZ is 914.57 km (> 300.00 km) from the source
+Station ISNN is 908.55 km (> 300.00 km) from the source
+Station JPK is 341.81 km (> 300.00 km) from the source
+Station KAI is 466.64 km (> 300.00 km) from the source
+Station KICM is 1775.76 km (> 300.00 km) from the source
+Station KIKV is 1777.47 km (> 300.00 km) from the source
+Station KIMD is 1789.53 km (> 300.00 km) from the source
+Station KINC is 1771.37 km (> 300.00 km) from the source
+Station KIRH is 1771.99 km (> 300.00 km) from the source
+Station KIWB is 1778.39 km (> 300.00 km) from the source
+Station KJL is 315.06 km (> 300.00 km) from the source
+Station KLU is 386.60 km (> 300.00 km) from the source
+Station KOFP is 1592.72 km (> 300.00 km) from the source
+Station KOKL is 1594.08 km (> 300.00 km) from the source
+Station KOKV is 1589.53 km (> 300.00 km) from the source
+Station KONE is 1584.79 km (> 300.00 km) from the source
+Station KONW is 1589.11 km (> 300.00 km) from the source
+Station KOSE is 1584.91 km (> 300.00 km) from the source
+Station KOWE is 1593.45 km (> 300.00 km) from the source
+Station LVA is 1062.33 km (> 300.00 km) from the source
+Station MASB is 1435.74 km (> 300.00 km) from the source
+Station MCIR is 1117.92 km (> 300.00 km) from the source
+Station MDM is 549.15 km (> 300.00 km) from the source
+Station MDM is 549.15 km (> 300.00 km) from the source
+Station MGOD is 1129.85 km (> 300.00 km) from the source
+Station MLY is 516.55 km (> 300.00 km) from the source
+Station MNAT is 1113.96 km (> 300.00 km) from the source
+Station MREP is 1122.71 km (> 300.00 km) from the source
+Station MSOM is 1130.83 km (> 300.00 km) from the source
+Station MSW is 1116.03 km (> 300.00 km) from the source
+Station MTBL is 1106.87 km (> 300.00 km) from the source
+Station NAG is 753.90 km (> 300.00 km) from the source
+Station NDB is 1393.03 km (> 300.00 km) from the source
+Station NEA is 493.61 km (> 300.00 km) from the source
+Station OKAK is 1228.29 km (> 300.00 km) from the source
+Station OKCF is 1219.42 km (> 300.00 km) from the source
+Station OKER is 1210.69 km (> 300.00 km) from the source
+Station OKID is 1198.20 km (> 300.00 km) from the source
+Station OKRE is 1210.71 km (> 300.00 km) from the source
+Station OKSP is 1238.06 km (> 300.00 km) from the source
+Station OKTU is 1216.03 km (> 300.00 km) from the source
+Station OKWE is 1218.05 km (> 300.00 km) from the source
+Station OKWR is 1219.47 km (> 300.00 km) from the source
+Station PLBL is 387.97 km (> 300.00 km) from the source
+Station PLK1 is 371.44 km (> 300.00 km) from the source
+Station PLK2 is 365.64 km (> 300.00 km) from the source
+Station PLK3 is 371.00 km (> 300.00 km) from the source
+Station PLK4 is 379.18 km (> 300.00 km) from the source
+Station PLK5 is 363.48 km (> 300.00 km) from the source
+Station PLWL is 340.23 km (> 300.00 km) from the source
+Station PN7A is 783.38 km (> 300.00 km) from the source
+Station PNL is 748.10 km (> 300.00 km) from the source
+Station PPD is 668.99 km (> 300.00 km) from the source
+Station PS1A is 774.17 km (> 300.00 km) from the source
+Station PS4A is 785.09 km (> 300.00 km) from the source
+Station PV6 is 778.55 km (> 300.00 km) from the source
+Station PVV is 780.14 km (> 300.00 km) from the source
+Station RAG is 445.16 km (> 300.00 km) from the source
+Station RND is 384.12 km (> 300.00 km) from the source
+Station SGA is 414.92 km (> 300.00 km) from the source
+Station SSLN is 919.57 km (> 300.00 km) from the source
+Station SSLS is 927.98 km (> 300.00 km) from the source
+Station SSLW is 928.29 km (> 300.00 km) from the source
+Station SSP is 548.80 km (> 300.00 km) from the source
+Station TACS is 1828.37 km (> 300.00 km) from the source
+Station TAFL is 1823.83 km (> 300.00 km) from the source
+Station TAFP is 1817.60 km (> 300.00 km) from the source
+Station TANO is 1823.54 km (> 300.00 km) from the source
+Station TAPA is 1815.09 km (> 300.00 km) from the source
+Station TASE is 1825.17 km (> 300.00 km) from the source
+Station TEST is 12901.73 km (> 300.00 km) from the source
+Station TGL is 544.21 km (> 300.00 km) from the source
+Station VLZ is 356.96 km (> 300.00 km) from the source
+Station VNFG is 613.34 km (> 300.00 km) from the source
+Station VNHG is 604.85 km (> 300.00 km) from the source
+Station VNKR is 629.42 km (> 300.00 km) from the source
+Station VNSG is 610.72 km (> 300.00 km) from the source
+Station VNSS is 614.98 km (> 300.00 km) from the source
+Station VNSW is 632.67 km (> 300.00 km) from the source
+Station VNWF is 625.66 km (> 300.00 km) from the source
+Station WACK is 482.24 km (> 300.00 km) from the source
+Station WANC is 495.77 km (> 300.00 km) from the source
+Station WASW is 488.34 km (> 300.00 km) from the source
+Station WAX is 544.73 km (> 300.00 km) from the source
+Station WAZA is 493.93 km (> 300.00 km) from the source
+Station WEBT is 970.60 km (> 300.00 km) from the source
+Station WECS is 976.62 km (> 300.00 km) from the source
+Station WESE is 972.99 km (> 300.00 km) from the source
+Station WESN is 964.53 km (> 300.00 km) from the source
+Station WESP is 977.25 km (> 300.00 km) from the source
+Station WRG is 595.51 km (> 300.00 km) from the source
+Station WRH is 504.77 km (> 300.00 km) from the source
+Station WTUG is 933.56 km (> 300.00 km) from the source
+Station YAH is 606.14 km (> 300.00 km) from the source
+Station YKW3 is 2013.18 km (> 300.00 km) from the source
+Station ZRO is 1065.49 km (> 300.00 km) from the source
+Station AAK is 7795.95 km (> 300.00 km) from the source
+Station AFI is 8419.90 km (> 300.00 km) from the source
+Station AKGG is 1057.37 km (> 300.00 km) from the source
+Station AKLV is 1058.70 km (> 300.00 km) from the source
+Station AKRB is 1066.40 km (> 300.00 km) from the source
+Station AKT is 1052.65 km (> 300.00 km) from the source
+Station AKUT is 1052.62 km (> 300.00 km) from the source
+Station ANMO is 4340.86 km (> 300.00 km) from the source
+Station ARU is 6750.85 km (> 300.00 km) from the source
+Station ATKA is 1603.13 km (> 300.00 km) from the source
+Station BAGL is 586.09 km (> 300.00 km) from the source
+Station BARK is 564.91 km (> 300.00 km) from the source
+Station BARN is 607.56 km (> 300.00 km) from the source
+Station BBB is 1767.25 km (> 300.00 km) from the source
+Station BBGH is 8919.26 km (> 300.00 km) from the source
+Station BBSR is 6832.64 km (> 300.00 km) from the source
+Station BERG is 498.56 km (> 300.00 km) from the source
+Station BESE is 1031.95 km (> 300.00 km) from the source
+Station BFO is 7820.41 km (> 300.00 km) from the source
+Station BGLC is 525.27 km (> 300.00 km) from the source
+Station BILL is 2099.21 km (> 300.00 km) from the source
+Station BMR is 448.13 km (> 300.00 km) from the source
+Station BORG is 5536.77 km (> 300.00 km) from the source
+Station BRVK is 6846.90 km (> 300.00 km) from the source
+Station CAST is 328.47 km (> 300.00 km) from the source
+Station CASY is 16109.33 km (> 300.00 km) from the source
+Station CHI is 546.24 km (> 300.00 km) from the source
+Station CHTO is 9161.60 km (> 300.00 km) from the source
+Station CHUM is 378.90 km (> 300.00 km) from the source
+Station CMLA is 8105.84 km (> 300.00 km) from the source
+Station COCO is 12291.55 km (> 300.00 km) from the source
+Station COLA is 549.09 km (> 300.00 km) from the source
+Station COLD is 761.45 km (> 300.00 km) from the source
+Station COR is 2629.64 km (> 300.00 km) from the source
+Station CRAG is 1283.03 km (> 300.00 km) from the source
+Station CTAO is 10462.48 km (> 300.00 km) from the source
+Station DAV is 8868.31 km (> 300.00 km) from the source
+Station DAWY is 798.42 km (> 300.00 km) from the source
+Station DGAR is 13027.51 km (> 300.00 km) from the source
+Station DHY is 404.64 km (> 300.00 km) from the source
+Station DIV is 386.89 km (> 300.00 km) from the source
+Station DLBC is 1302.49 km (> 300.00 km) from the source
+Station DOT is 574.18 km (> 300.00 km) from the source
+Station DWPF is 6313.93 km (> 300.00 km) from the source
+Station EFI is 14995.65 km (> 300.00 km) from the source
+Station ERM is 4688.81 km (> 300.00 km) from the source
+Station ESK is 6885.57 km (> 300.00 km) from the source
+Station EYAK is 385.13 km (> 300.00 km) from the source
+Station FALS is 891.07 km (> 300.00 km) from the source
+Station FFC is 3022.20 km (> 300.00 km) from the source
+Station GAMB is 1049.00 km (> 300.00 km) from the source
+Station GCSA is 519.13 km (> 300.00 km) from the source
+Station GNI is 8735.89 km (> 300.00 km) from the source
+Station GOAT is 440.95 km (> 300.00 km) from the source
+Station GRIN is 520.88 km (> 300.00 km) from the source
+Station GRNC is 602.83 km (> 300.00 km) from the source
+Station GUMO is 7200.88 km (> 300.00 km) from the source
+Station HKT is 5358.72 km (> 300.00 km) from the source
+Station HNR is 8792.76 km (> 300.00 km) from the source
+Station HRV is 5569.09 km (> 300.00 km) from the source
+Station ILBB is 564.11 km (> 300.00 km) from the source
+Station INCN is 5975.68 km (> 300.00 km) from the source
+Station ISLE is 571.56 km (> 300.00 km) from the source
+Station JTS is 7807.61 km (> 300.00 km) from the source
+Station KAPI is 10349.96 km (> 300.00 km) from the source
+Station KBS is 4498.27 km (> 300.00 km) from the source
+Station KDAK is 301.62 km (> 300.00 km) from the source
+Station KEV is 5553.57 km (> 300.00 km) from the source
+Station KHIT is 522.94 km (> 300.00 km) from the source
+Station KIAG is 569.56 km (> 300.00 km) from the source
+Station KIEV is 7675.26 km (> 300.00 km) from the source
+Station KIP is 4358.46 km (> 300.00 km) from the source
+Station KIV is 8341.84 km (> 300.00 km) from the source
+Station KMBO is 13364.55 km (> 300.00 km) from the source
+Station KULT is 554.16 km (> 300.00 km) from the source
+Station KURK is 6848.17 km (> 300.00 km) from the source
+Station LBTB is 16061.12 km (> 300.00 km) from the source
+Station LOGN is 643.36 km (> 300.00 km) from the source
+Station LSZ is 14984.55 km (> 300.00 km) from the source
+Station LVC is 11839.07 km (> 300.00 km) from the source
+Station MAJO is 5428.79 km (> 300.00 km) from the source
+Station MBAR is 13355.17 km (> 300.00 km) from the source
+Station MBWA is 11895.21 km (> 300.00 km) from the source
+Station MCAR is 536.88 km (> 300.00 km) from the source
+Station MDM is 549.15 km (> 300.00 km) from the source
+Station MESA is 597.65 km (> 300.00 km) from the source
+Station MID is 377.78 km (> 300.00 km) from the source
+Station MIDW is 4034.66 km (> 300.00 km) from the source
+Station MOBC is 1500.24 km (> 300.00 km) from the source
+Station NICH is 485.84 km (> 300.00 km) from the source
+Station NIKH is 1286.52 km (> 300.00 km) from the source
+Station NIKO is 1289.94 km (> 300.00 km) from the source
+Station NNA is 10400.74 km (> 300.00 km) from the source
+Station NWAO is 13127.97 km (> 300.00 km) from the source
+Station OBN is 7158.95 km (> 300.00 km) from the source
+Station OHAK is 365.09 km (> 300.00 km) from the source
+Station OKCE is 1218.19 km (> 300.00 km) from the source
+Station OKFG is 1207.77 km (> 300.00 km) from the source
+Station OKSO is 1223.59 km (> 300.00 km) from the source
+Station OTAV is 9128.62 km (> 300.00 km) from the source
+Station PAB is 8549.29 km (> 300.00 km) from the source
+Station PAX is 474.05 km (> 300.00 km) from the source
+Station PAYG is 8603.60 km (> 300.00 km) from the source
+Station PET is 3009.06 km (> 300.00 km) from the source
+Station PFO is 3971.51 km (> 300.00 km) from the source
+Station PMG is 9353.87 km (> 300.00 km) from the source
+Station PMSA is 15710.26 km (> 300.00 km) from the source
+Station PNL is 748.10 km (> 300.00 km) from the source
+Station POHA is 4528.35 km (> 300.00 km) from the source
+Station PS01 is 1105.57 km (> 300.00 km) from the source
+Station PS04 is 899.10 km (> 300.00 km) from the source
+Station PS05 is 712.26 km (> 300.00 km) from the source
+Station PS06 is 617.04 km (> 300.00 km) from the source
+Station PS07 is 583.37 km (> 300.00 km) from the source
+Station PS08 is 545.19 km (> 300.00 km) from the source
+Station PS09 is 528.23 km (> 300.00 km) from the source
+Station PS10 is 491.05 km (> 300.00 km) from the source
+Station PS11 is 428.85 km (> 300.00 km) from the source
+Station PS12 is 426.56 km (> 300.00 km) from the source
+Station PTPK is 564.77 km (> 300.00 km) from the source
+Station RAG is 445.16 km (> 300.00 km) from the source
+Station RAO is 10206.63 km (> 300.00 km) from the source
+Station RAR is 9077.38 km (> 300.00 km) from the source
+Station RAYN is 10547.05 km (> 300.00 km) from the source
+Station RCBR is 12013.89 km (> 300.00 km) from the source
+Station RIDG is 549.09 km (> 300.00 km) from the source
+Station RKAV is 629.02 km (> 300.00 km) from the source
+Station RND is 384.12 km (> 300.00 km) from the source
+Station RPN is 10480.37 km (> 300.00 km) from the source
+Station RSSD is 3673.69 km (> 300.00 km) from the source
+Station SAMH is 662.61 km (> 300.00 km) from the source
+Station SAML is 10842.74 km (> 300.00 km) from the source
+Station SBA is 15598.04 km (> 300.00 km) from the source
+Station SCRK is 598.55 km (> 300.00 km) from the source
+Station SDDR is 7722.92 km (> 300.00 km) from the source
+Station SDPT is 731.54 km (> 300.00 km) from the source
+Station SDV is 8720.32 km (> 300.00 km) from the source
+Station SFJD is 4518.88 km (> 300.00 km) from the source
+Station SHEL is 14400.58 km (> 300.00 km) from the source
+Station SIT is 1074.99 km (> 300.00 km) from the source
+Station SJG is 8087.07 km (> 300.00 km) from the source
+Station SKAG is 977.44 km (> 300.00 km) from the source
+Station SMY is 2180.73 km (> 300.00 km) from the source
+Station SNZO is 11666.36 km (> 300.00 km) from the source
+Station SPIA is 1071.11 km (> 300.00 km) from the source
+Station SSBA is 928.35 km (> 300.00 km) from the source
+Station SSPA is 5392.88 km (> 300.00 km) from the source
+Station SUCK is 498.91 km (> 300.00 km) from the source
+Station SUR is 16844.33 km (> 300.00 km) from the source
+Station TABL is 638.49 km (> 300.00 km) from the source
+Station TATO is 7392.98 km (> 300.00 km) from the source
+Station TAU is 12682.00 km (> 300.00 km) from the source
+Station TEIG is 6676.98 km (> 300.00 km) from the source
+Station TGUH is 7320.71 km (> 300.00 km) from the source
+Station TIXI is 3459.31 km (> 300.00 km) from the source
+Station TLY is 5839.22 km (> 300.00 km) from the source
+Station TNA is 949.35 km (> 300.00 km) from the source
+Station TRF is 354.61 km (> 300.00 km) from the source
+Station TRQA is 13635.18 km (> 300.00 km) from the source
+Station TSUM is 15356.29 km (> 300.00 km) from the source
+Station TUC is 4367.09 km (> 300.00 km) from the source
+Station ULN is 6030.25 km (> 300.00 km) from the source
+Station UNV is 1108.86 km (> 300.00 km) from the source
+Station VMT is 354.42 km (> 300.00 km) from the source
+Station VNDA is 15628.51 km (> 300.00 km) from the source
+Station VRDI is 512.17 km (> 300.00 km) from the source
+Station WAKE is 5577.82 km (> 300.00 km) from the source
+Station WCI is 5141.62 km (> 300.00 km) from the source
+Station WHY is 977.73 km (> 300.00 km) from the source
+Station WRAB is 11016.41 km (> 300.00 km) from the source
+Station WRAK is 1268.93 km (> 300.00 km) from the source
+Station YAK is 3914.60 km (> 300.00 km) from the source
+Station YKW3 is 2013.18 km (> 300.00 km) from the source
+Station YSS is 4311.18 km (> 300.00 km) from the source
+Station AKGG is 1057.37 km (> 300.00 km) from the source
+Station AKLV is 1058.70 km (> 300.00 km) from the source
+Station AKRB is 1066.40 km (> 300.00 km) from the source
+Station AKT is 1052.65 km (> 300.00 km) from the source
+Station AKUT is 1052.62 km (> 300.00 km) from the source
+Station ATKA is 1603.13 km (> 300.00 km) from the source
+Station BAGL is 586.09 km (> 300.00 km) from the source
+Station BARK is 564.91 km (> 300.00 km) from the source
+Station BARN is 607.56 km (> 300.00 km) from the source
+Station BBB is 1767.25 km (> 300.00 km) from the source
+Station BERG is 498.56 km (> 300.00 km) from the source
+Station BESE is 1031.95 km (> 300.00 km) from the source
+Station BGLC is 525.27 km (> 300.00 km) from the source
+Station BILL is 2099.21 km (> 300.00 km) from the source
+Station BMR is 448.13 km (> 300.00 km) from the source
+Station CAST is 328.47 km (> 300.00 km) from the source
+Station CHI is 546.24 km (> 300.00 km) from the source
+Station CHUM is 378.90 km (> 300.00 km) from the source
+Station COLD is 761.45 km (> 300.00 km) from the source
+Station CRAG is 1283.03 km (> 300.00 km) from the source
+Station DAWY is 798.42 km (> 300.00 km) from the source
+Station DHY is 404.64 km (> 300.00 km) from the source
+Station DIV is 386.89 km (> 300.00 km) from the source
+Station DLBC is 1302.49 km (> 300.00 km) from the source
+Station DOT is 574.18 km (> 300.00 km) from the source
+Station EYAK is 385.13 km (> 300.00 km) from the source
+Station FALS is 891.07 km (> 300.00 km) from the source
+Station GAMB is 1049.00 km (> 300.00 km) from the source
+Station GCSA is 519.13 km (> 300.00 km) from the source
+Station GOAT is 440.95 km (> 300.00 km) from the source
+Station GRIN is 520.88 km (> 300.00 km) from the source
+Station GRNC is 602.83 km (> 300.00 km) from the source
+Station ILBB is 564.11 km (> 300.00 km) from the source
+Station ISLE is 571.56 km (> 300.00 km) from the source
+Station KDAK is 301.62 km (> 300.00 km) from the source
+Station KHIT is 522.94 km (> 300.00 km) from the source
+Station KIAG is 569.56 km (> 300.00 km) from the source
+Station KULT is 554.16 km (> 300.00 km) from the source
+Station LOGN is 643.36 km (> 300.00 km) from the source
+Station MCAR is 536.88 km (> 300.00 km) from the source
+Station MDM is 549.15 km (> 300.00 km) from the source
+Station MESA is 597.65 km (> 300.00 km) from the source
+Station MID is 377.78 km (> 300.00 km) from the source
+Station MOBC is 1500.24 km (> 300.00 km) from the source
+Station NICH is 485.84 km (> 300.00 km) from the source
+Station NIKH is 1286.52 km (> 300.00 km) from the source
+Station NIKO is 1289.94 km (> 300.00 km) from the source
+Station OHAK is 365.09 km (> 300.00 km) from the source
+Station OKCE is 1218.19 km (> 300.00 km) from the source
+Station OKFG is 1207.77 km (> 300.00 km) from the source
+Station OKSO is 1223.59 km (> 300.00 km) from the source
+Station PAX is 474.05 km (> 300.00 km) from the source
+Station PET is 3009.06 km (> 300.00 km) from the source
+Station PNL is 748.10 km (> 300.00 km) from the source
+Station PS01 is 1105.57 km (> 300.00 km) from the source
+Station PS04 is 899.10 km (> 300.00 km) from the source
+Station PS05 is 712.26 km (> 300.00 km) from the source
+Station PS06 is 617.04 km (> 300.00 km) from the source
+Station PS07 is 583.37 km (> 300.00 km) from the source
+Station PS08 is 545.19 km (> 300.00 km) from the source
+Station PS09 is 528.23 km (> 300.00 km) from the source
+Station PS10 is 491.05 km (> 300.00 km) from the source
+Station PS11 is 428.85 km (> 300.00 km) from the source
+Station PS12 is 426.56 km (> 300.00 km) from the source
+Station PTPK is 564.77 km (> 300.00 km) from the source
+Station RAG is 445.16 km (> 300.00 km) from the source
+Station RIDG is 549.09 km (> 300.00 km) from the source
+Station RKAV is 629.02 km (> 300.00 km) from the source
+Station RND is 384.12 km (> 300.00 km) from the source
+Station SAMH is 662.61 km (> 300.00 km) from the source
+Station SCRK is 598.55 km (> 300.00 km) from the source
+Station SDPT is 731.54 km (> 300.00 km) from the source
+Station SIT is 1074.99 km (> 300.00 km) from the source
+Station SKAG is 977.44 km (> 300.00 km) from the source
+Station SMY is 2180.73 km (> 300.00 km) from the source
+Station SPIA is 1071.11 km (> 300.00 km) from the source
+Station SSBA is 928.35 km (> 300.00 km) from the source
+Station SUCK is 498.91 km (> 300.00 km) from the source
+Station TABL is 638.49 km (> 300.00 km) from the source
+Station TIXI is 3459.31 km (> 300.00 km) from the source
+Station TNA is 949.35 km (> 300.00 km) from the source
+Station TRF is 354.61 km (> 300.00 km) from the source
+Station UNV is 1108.86 km (> 300.00 km) from the source
+Station VMT is 354.42 km (> 300.00 km) from the source
+Station VRDI is 512.17 km (> 300.00 km) from the source
+Station WHY is 977.73 km (> 300.00 km) from the source
+Station WRAK is 1268.93 km (> 300.00 km) from the source
+Station YAK is 3914.60 km (> 300.00 km) from the source
+Station YKW3 is 2013.18 km (> 300.00 km) from the source
+Station YSS is 4311.18 km (> 300.00 km) from the source
+Station PN7A is 783.38 km (> 300.00 km) from the source
+Station SSLN is 919.57 km (> 300.00 km) from the source
+    DFR   uaf_continuous 2009-03-28   No sitechan
+    ILW   uaf_continuous 2009-03-28   No sitechan
+    NCT   uaf_continuous 2009-03-28   No sitechan
+    RDT   uaf_continuous 2009-03-28   No sitechan
+   ALPI             MOOS 2009-03-28           YES
+   AVAL             MOOS 2009-03-28           YES
+   BIGB             MOOS 2009-03-28           YES
+   BLAK             MOOS 2009-03-28           YES
+   DEVL             MOOS 2009-03-28           YES
+   HEAD             MOOS 2009-03-28           YES
+   HOPE             MOOS 2009-03-28           YES
+   KASH             MOOS 2009-03-28           YES
+   LSKI             MOOS 2009-03-28           YES
+   LSUM             MOOS 2009-03-28           YES
+   MPEN             MOOS 2009-03-28           YES
+   NSKI             MOOS 2009-03-28           YES
+   PERI             MOOS 2009-03-28           YES
+   RUSS             MOOS 2009-03-28           YES
+   SOLD             MOOS 2009-03-28           YES
+   TUPA             MOOS 2009-03-28           YES
+   ALPI             MOOS 2009-03-28           YES
+   AVAL             MOOS 2009-03-28           YES
+   BIGB             MOOS 2009-03-28           YES
+   BLAK             MOOS 2009-03-28           YES
+   DEVL             MOOS 2009-03-28           YES
+   HEAD             MOOS 2009-03-28           YES
+   HOPE             MOOS 2009-03-28           YES
+   KASH             MOOS 2009-03-28           YES
+   LSKI             MOOS 2009-03-28           YES
+   LSUM             MOOS 2009-03-28           YES
+   MPEN             MOOS 2009-03-28           YES
+   NSKI             MOOS 2009-03-28           YES
+   PERI             MOOS 2009-03-28           YES
+   RUSS             MOOS 2009-03-28           YES
+   SOLD             MOOS 2009-03-28           YES
+   TUPA             MOOS 2009-03-28           YES
